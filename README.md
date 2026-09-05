@@ -6,78 +6,63 @@
 
 ---
 
-## About This Portfolio
+## About This Repository
 
-Welcome to my Prelim Digital Portfolio for GE 4120 – 21st Century IT Skills.
+This repository contains my completed activities and outputs for the Prelim period of GE 4120 – 21st Century IT Skills.
 
-This repository contains the activities and outputs completed during the Prelim period. It serves as a digital portfolio where my work can be organized, documented, and presented in an accessible format.
+It serves as a digital portfolio that organizes my activities and their corresponding outputs in one accessible location.
 
-The portfolio demonstrates my application of presentation design, visual communication, documentation, and digital technology skills.
+The repository contains three activities completed during the Prelim period:
+
+1. Presentation Design Principles
+2. Color Palette and Typography
+3. Social Media Infographics and Mini Project Documentation
 
 ---
 
 ## Activities
 
-### 📌 Activity 1 – Presentation Design Principles
+### Activity 1 – Presentation Design Principles
 
-This activity focuses on the application of presentation design principles to improve the organization, readability, and visual impact of information.
+This activity focuses on the application of presentation design principles in creating a visual output.
 
-[View Activity 1](./Activity-1-Presentation-Design/README.md)
-
----
-
-### 🎨 Activity 2 – Color Palette and Typography
-
-This activity focuses on the selection and application of colors and typography to create a consistent and visually effective design.
-
-[View Activity 2](./Activity-2-Color-Palette-Typography/README.md)
+[View Activity 1](./Activity-1-Presentation-Design-Principles/)
 
 ---
 
-### 📱 Activity 3 – Social Media Infographics and Mini Project Documentation
+### Activity 2 – Color Palette and Typography
 
-This activity focuses on creating an infographic and documenting a proposed digital technology solution.
+This activity focuses on selecting and applying colors and typography as part of a visual identity.
 
-The project focuses on:
+The outputs include a header, tagline, logo, and color palette and typography set.
 
-**Antibiotic Resistance in the Philippines: A Digital Information and Awareness System**
-
-[View Activity 3](./Activity-3-Social-Media-Infographic/README.md)
+[View Activity 2](./Activity-2-Color-Palette-and-Typography/)
 
 ---
 
-## Digital Prototype
+### Activity 3 – Social Media Infographics and Mini Project Documentation
 
-A simple web prototype was developed based on the proposed Digital Information and Awareness System for antibiotic resistance.
+This activity focuses on creating a social media infographic together with its corresponding mini project documentation.
 
-The prototype provides educational information about:
+The completed project focuses on antibiotic resistance in the Philippines.
 
-- Antibiotic resistance
-- Causes of antibiotic resistance
-- Effects of antibiotic resistance
-- Responsible antibiotic use
-- Philippine antimicrobial resistance efforts
-- Frequently asked questions
-
-[Open Digital Prototype](./Activity-3-Social-Media-Infographic/digital-awareness-system/index.html)
-
----
-
-## Technologies Used
-
-- Markdown
-- HTML
-- CSS
-- JavaScript
-- GitHub
+[View Activity 3](./Activity-3-Social-Media-Infographics-and-Mini-Project-Documentation/)
 
 ---
 
 ## Repository Organization
 
-The repository is organized into separate folders for each Prelim activity.
+Each activity is organized into a separate folder containing its corresponding output and documentation.
 
-Each activity contains documentation and its corresponding output files.
+This structure allows the activities to be easily accessed and reviewed individually.
+
+---
+
+## Purpose of the Portfolio
+
+The purpose of this digital portfolio is to present my completed Prelim activities in an organized and accessible format.
+
+It also demonstrates my ability to organize digital outputs and present my work using an online repository.
 
 ---
 
