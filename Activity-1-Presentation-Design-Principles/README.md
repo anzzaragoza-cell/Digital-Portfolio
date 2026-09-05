@@ -14,7 +14,7 @@ The completed output for this activity is presented below.
 
 ### Final Output
 
-![Activity 1 Output](./YOUR-ACTIVITY-1-FILENAME.png)
+![Activity 1 Output](./PresentationDesign.png)
 
 ---
 
