@@ -1,18 +1,18 @@
 # GE 4120 – 21st Century IT Skills
 ## Prelim Digital Portfolio
 
-**Student:** Anton Nickolai A. Zaragoza  
+**Name:** Anton Nickolai A. Zaragoza  
 **Course/Section:** BSN 4F
 
 ---
 
 ## About This Repository
 
-This repository contains my completed activities and outputs for the Prelim period of GE 4120 – 21st Century IT Skills.
+This repository contains my completed Prelim activities and outputs for GE 4120 – 21st Century IT Skills.
 
-It serves as a digital portfolio that organizes my activities and their corresponding outputs in one accessible location.
+The repository serves as a digital portfolio where the activities completed during the Prelim period are organized and presented in one accessible location.
 
-The repository contains three activities completed during the Prelim period:
+The portfolio contains three activities:
 
 1. Presentation Design Principles
 2. Color Palette and Typography
@@ -24,7 +24,7 @@ The repository contains three activities completed during the Prelim period:
 
 ### Activity 1 – Presentation Design Principles
 
-This activity focuses on the application of presentation design principles in creating a visual output.
+This activity focuses on the application of presentation design principles in developing a visual presentation output.
 
 [View Activity 1](./Activity-1-Presentation-Design-Principles/)
 
@@ -32,7 +32,7 @@ This activity focuses on the application of presentation design principles in cr
 
 ### Activity 2 – Color Palette and Typography
 
-This activity focuses on selecting and applying colors and typography as part of a visual identity.
+This activity focuses on the selection and application of colors and typography as elements of visual identity.
 
 The outputs include a header, tagline, logo, and color palette and typography set.
 
@@ -42,9 +42,9 @@ The outputs include a header, tagline, logo, and color palette and typography se
 
 ### Activity 3 – Social Media Infographics and Mini Project Documentation
 
-This activity focuses on creating a social media infographic together with its corresponding mini project documentation.
+This activity focuses on the development of a social media infographic together with its mini project documentation.
 
-The completed project focuses on antibiotic resistance in the Philippines.
+The project focuses on antibiotic resistance in the Philippines and proposes a digital information and awareness system.
 
 [View Activity 3](./Activity-3-Social-Media-Infographics-and-Mini-Project-Documentation/)
 
@@ -52,17 +52,17 @@ The completed project focuses on antibiotic resistance in the Philippines.
 
 ## Repository Organization
 
-Each activity is organized into a separate folder containing its corresponding output and documentation.
+Each activity is placed in a separate folder containing its corresponding outputs and documentation.
 
-This structure allows the activities to be easily accessed and reviewed individually.
+This organization makes the portfolio easier to navigate and allows each activity to be accessed individually.
 
 ---
 
-## Purpose of the Portfolio
+## Purpose
 
-The purpose of this digital portfolio is to present my completed Prelim activities in an organized and accessible format.
+The purpose of this portfolio is to organize and present my Prelim outputs in a clear and accessible digital format.
 
-It also demonstrates my ability to organize digital outputs and present my work using an online repository.
+It also demonstrates the use of GitHub as a platform for organizing and presenting digital work.
 
 ---
 
