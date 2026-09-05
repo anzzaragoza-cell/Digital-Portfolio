@@ -8,7 +8,7 @@
 
 ## Overview
 
-This activity focuses on the creation of a social media infographic and a mini project documentation.
+This activity focuses on the creation of a social media infographic together with its mini project documentation.
 
 The project addresses antibiotic resistance in the Philippines and proposes a Digital Information and Awareness System designed to provide accessible information about antibiotics, antibiotic resistance, responsible antibiotic use, and antimicrobial resistance statistics.
 
@@ -16,13 +16,13 @@ The proposed system is intended for education and awareness rather than diagnosi
 
 ---
 
-## Problem
+## Social Media Infographic
 
-Antibiotic resistance occurs when bacteria develop resistance to antibiotics, making some infections more difficult to treat.
+The infographic presents information about antibiotic resistance, including its causes, effects, the situation in the Philippines, and actions that individuals can take to help address the problem.
 
-The project identifies inappropriate antibiotic use as one factor contributing to antibiotic resistance. Examples include unnecessary antibiotic use, self-medication, using leftover antibiotics, sharing medicines, and failing to follow healthcare professionals' instructions.
+### Final Infographic
 
-The project also recognizes antibiotic resistance as a relevant public health concern in the Philippines.
+![Antibiotic Resistance Infographic](./Infographic_ZARAGOZA%20.png)
 
 ---
 
@@ -30,14 +30,14 @@ The project also recognizes antibiotic resistance as a relevant public health co
 
 The project proposes a simple website or mobile-friendly Digital Information and Awareness System for Antibiotic Resistance.
 
-The proposed system would provide reliable educational information through:
+The proposed system would provide educational information through:
 
-- Short explanations
-- Infographics
+- Antibiotic information
+- Antibiotic resistance education
+- Causes and effects
+- Responsible antibiotic use guidelines
+- Philippine and global AMR statistics
 - Frequently asked questions
-- Visualizations
-- Philippine and global antibiotic resistance statistics
-- Responsible antibiotic use reminders
 - References from reliable organizations
 
 ---
@@ -66,63 +66,50 @@ The proposed system is intended for:
 - Parents and caregivers
 - Community members
 
-It may also serve as an educational resource for students and healthcare learners.
-
----
-
-## Infographic
-
-The social media infographic presents information about:
-
-- What antibiotic resistance is
-- Why antibiotic resistance happens
-- The effects of antibiotic resistance
-- Antibiotic resistance in the Philippines
-- The global situation
-- Actions people can take to help prevent antibiotic resistance
-
-The infographic promotes responsible antibiotic use and encourages practices such as using antibiotics only when prescribed, following healthcare professionals' instructions, avoiding leftover antibiotics, and not sharing antibiotics.
-
 ---
 
 ## Design Choices
 
-The infographic uses a predominantly blue and cyan visual scheme with orange accents.
+The infographic uses visual elements, headings, illustrations, statistics, and concise explanations to communicate information about antibiotic resistance.
 
-The design combines headings, illustrations, statistics, and concise explanations to make the information easier to understand and visually engaging.
+The design uses a predominantly blue and cyan color scheme with orange accents and supporting visual elements.
 
-The information is organized into sections so that the audience can follow the topic from the definition of antibiotic resistance to its causes, effects, and possible actions.
+The information is organized into sections to make the content easier to follow and understand.
 
 ---
 
 ## Creative Process
 
-The project involved researching information about antibiotic resistance and the Philippine response to antimicrobial resistance.
+The project involved researching information about antibiotic resistance, antibiotic use, and the Philippine response to antimicrobial resistance.
 
-The information was then organized into concise sections and translated into an infographic format using visual elements and supporting statistics.
+The gathered information was organized into concise sections and developed into a social media infographic.
 
-The project documentation was developed alongside the infographic to explain the problem, proposed technology solution, objectives, target users, features, expected benefits, implementation, and limitations.
+The accompanying project documentation explains the problem, proposed technology solution, objectives, target users, proposed features, expected benefits, implementation, limitations, and conclusion.
 
 ---
 
 ## Limitations
 
-The proposed system is intended for education and awareness.
+The proposed system is limited to education and awareness.
 
 It does not diagnose infections, prescribe antibiotics, recommend specific medications, or replace professional medical consultation.
 
 ---
 
-## Outputs
+## Mini Project Documentation
 
-This folder contains the two main outputs for Activity 3:
+The complete project documentation is available below.
 
-1. Social Media Infographic
-2. Mini Project Documentation
+[📄 View Project Documentation](./Project%20Documentation_ZARAGOZA%20.pdf)
 
 ---
 
-## Files
+## Outputs
 
-- `Antibiotic-Resistance-Infographic.png` – Social media infographic
-- `Project-Documentation.pdf` – Mini project documentation
+### Infographic
+
+![Antibiotic Resistance Infographic](./Infographic_ZARAGOZA%20.png)
+
+### Project Documentation
+
+[📄 Open Project Documentation](./Project%20Documentation_ZARAGOZA%20.pdf)
