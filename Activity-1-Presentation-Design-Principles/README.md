@@ -14,7 +14,7 @@ The completed output for this activity is presented below.
 
 ### Final Output
 
-![Activity 1 Output](Activity-1-Presentation-Design-Principles/Activity 1 - GE 4120_ZARAGOZA.png)
+![Activity 1 Output](./Activity%201%20-%20GE%204120_ZARAGOZA.png)
 
 ---
 
@@ -38,4 +38,4 @@ It demonstrated the importance of organizing information and visual elements in 
 
 The original output is available in this folder.
 
-[📄 View/Download Activity 1 Output](Activity-1-Presentation-Design-Principles/Activity 1 - GE 4120_ZARAGOZA.png)
+[📄 View/Download Activity 1 Output](./Activity%201%20-%20GE%204120_ZARAGOZA.png)
