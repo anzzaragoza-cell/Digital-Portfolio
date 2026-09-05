@@ -4,34 +4,38 @@
 
 This activity focuses on the application of presentation design principles in creating a visual presentation output.
 
-The activity demonstrates how design principles can be applied to organize visual and textual elements and improve the communication of information.
+The completed output demonstrates the use of visual organization and presentation techniques to communicate information through design.
 
 ---
 
 ## Activity Output
 
-The completed output for this activity is included in this folder.
+The completed output for this activity is presented below.
 
-The output demonstrates the application of presentation design principles through the organization of visual elements and information.
+### Final Output
+
+![Activity 1 Output](./YOUR-ACTIVITY-1-FILENAME.png)
 
 ---
 
 ## Design Application
 
-The activity required the consideration of presentation design principles in developing the final output.
+The output applies presentation design principles through the organization of visual and textual elements.
 
-These principles help organize the content, establish visual hierarchy, and support the clear communication of the intended message.
-
----
-
-## Output
-
-The final output created for Activity 1 is included in this repository.
+The arrangement of the content establishes visual hierarchy and supports the clear communication of the intended message.
 
 ---
 
 ## Reflection
 
-This activity provided an opportunity to apply presentation design concepts in an actual visual output.
+This activity provided an opportunity to apply presentation design concepts to an actual visual output.
 
 It demonstrated the importance of organizing information and visual elements in a way that makes a presentation clearer and easier for an audience to understand.
+
+---
+
+## File
+
+The original output is available in this folder.
+
+[📄 View/Download Activity 1 Output](./YOUR-ACTIVITY-1-FILENAME.png)
