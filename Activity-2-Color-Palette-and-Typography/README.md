@@ -8,9 +8,29 @@ The completed outputs include a header, tagline, logo, and color palette and typ
 
 ---
 
-## Color Palette
+## Outputs
 
-The selected color palette consists of the following colors:
+### Header
+
+![Header](./HEADER_ZARAGOZA.png)
+
+---
+
+### Tagline
+
+![Tagline](./TAGLINE_ZARAGOZA.png)
+
+---
+
+### Logo
+
+![Personal Logo](./PERSONAL%20LOGO_ZARAGOZA.png)
+
+---
+
+### Color Palette and Typography Set
+
+The selected color palette consists of:
 
 | Color | Hex Code |
 |---|---|
@@ -18,29 +38,7 @@ The selected color palette consists of the following colors:
 | Light Gray | `#b4b4b4` |
 | Black | `#000000` |
 
-### Gray Blue
-
-`#3e4b65`
-
-The gray blue color serves as the primary color of the visual identity.
-
-### Light Gray
-
-`#b4b4b4`
-
-The light gray color provides a neutral supporting color within the visual system.
-
-### Black
-
-`#000000`
-
-Black provides strong contrast and supports readability and emphasis.
-
----
-
-## Typography
-
-The selected typography set consists of three typefaces assigned to different roles:
+The selected typography consists of:
 
 | Role | Typeface |
 |---|---|
@@ -48,30 +46,7 @@ The selected typography set consists of three typefaces assigned to different ro
 | Body Font | Helvetica World |
 | Accent Font | Cooper Hewitt |
 
-### Display Font – Hangout
-
-Hangout is used as the display typeface for prominent visual elements.
-
-### Body Font – Helvetica World
-
-Helvetica World is used as the body typeface for readable supporting information.
-
-### Accent Font – Cooper Hewitt
-
-Cooper Hewitt is used as an accent typeface for additional visual emphasis.
-
----
-
-## Visual Identity Outputs
-
-The activity produced four visual identity outputs:
-
-- Header
-- Tagline
-- Logo
-- Color Palette and Typography Set
-
-These outputs work together as elements of a consistent visual identity.
+![Color Palette and Typography Set](./COLORTYPOGRAPHY_ZARAGOZA.png)
 
 ---
 
@@ -79,12 +54,24 @@ These outputs work together as elements of a consistent visual identity.
 
 The visual identity uses a limited color palette consisting of gray blue, light gray, and black.
 
-The typography system assigns different typefaces to display, body, and accent purposes, creating distinction and hierarchy between different types of information.
+Different typefaces are assigned to display, body, and accent roles to establish distinction and hierarchy between different types of information.
 
 ---
 
-## Conclusion
+## Reflection
 
-The activity demonstrates how color and typography can be selected and organized to create a consistent visual identity.
+This activity provided an opportunity to explore how color and typography can work together to establish a consistent visual identity.
 
-The final outputs apply the selected visual elements across different branding materials.
+The process demonstrated how selecting appropriate colors and typefaces can contribute to the overall appearance and organization of a design.
+
+---
+
+## Files
+
+[View Header](./HEADER_ZARAGOZA.png)
+
+[View Tagline](./TAGLINE_ZARAGOZA.png)
+
+[View Personal Logo](./PERSONAL%20LOGO_ZARAGOZA.png)
+
+[View Color Palette and Typography Set](./COLORTYPOGRAPHY_ZARAGOZA.png)
