@@ -46,7 +46,7 @@ The project focuses on antibiotic resistance in the Philippines and proposes a D
 
 
 ### Activity 4 – Google Slides Presentation
-[View the presentation](main/Activity-4-Google-Slides-Presentation.pdf)
+[View the presentation](Activity 4-Google-Slides-Presentation.pdf)
 
 
 ## Repository Organization
