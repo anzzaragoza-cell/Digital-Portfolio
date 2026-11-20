@@ -1,100 +1,47 @@
-# GE 4120 – 21st Century IT Skills
-## Prelim Digital Portfolio
+<div align="center">
 
-**Name:** Anton Nickolai A. Zaragoza  
-**Course/Section:** BSN 4F
+<img src="profile.jpg" alt="Profile photo of Anton Nickolai A. Zaragoza" width="180">
 
----
+# Anton Nickolai A. Zaragoza
 
-## About This Repository
+**BSN 4F · Ateneo de Davao University**
+**GE 4120 – 21st Century IT Skills · Digital Portfolio**
 
-This repository contains my completed activities and outputs for the Prelim period of GE 4120 – 21st Century IT Skills.
-
-The repository serves as a digital portfolio where my activities and corresponding outputs are organized and presented in one accessible location.
+</div>
 
 ---
 
-## Prelim Activities
+## About Me
 
-### Activity 1 – Presentation Design Principles
+Hi! I'm Anton, a fourth-year Bachelor of Science in Nursing student at Ateneo de Davao University in Davao City, graduating in 2027. I have completed clinical rotations in medical-surgical, emergency, operating room, hemodialysis, pediatric and community health nursing.
 
-This activity focuses on the application of presentation design principles in creating a visual presentation output.
+Outside the hospital, I'm interested in patient education, health technology and creative design. This repository is my digital portfolio for GE 4120, where I show how I use digital tools to organize and present my work.
 
-[📁 View Activity 1](./Activity-1-Presentation-Design-Principles/)
+## Skills and Tools I Have Learned
 
----
+- **Design:** presentation design principles, color palettes, typography, logo and header design
+- **Content creation:** social media infographics and project documentation
+- **Presentations:** Google Slides
+- **AI tools:** writing prompts, comparing outputs of different AI tools, and checking AI results for accuracy and privacy
+- **Web:** building and publishing a simple website
+- **Version control:** organizing a project and publishing it with GitHub and Markdown
 
-### Activity 2 – Color Palette and Typography
+## Activities
 
-This activity focuses on the selection and application of color and typography as elements of visual identity.
-
-The outputs include the header, tagline, logo, and color palette and typography set.
-
-[📁 View Activity 2](./Activity-2-Color-Palette-and-Typography/)
-
----
-
-### Activity 3 – Social Media Infographics and Mini Project Documentation
-
-This activity focuses on the creation of a social media infographic and its corresponding mini project documentation.
-
-The project focuses on antibiotic resistance in the Philippines and proposes a Digital Information and Awareness System.
-
-[📁 View Activity 3](./Activity-3-Social-Media-Infographics-and-Mini-Project-Documentation/)
-
----
-
-### Activity 4 – Google Slides Presentation
-
-This activity focuses on creating a Google Slides presentation output.
-
-[📄 View the presentation](./Activity-4-Google-Slides-Presentation.pdf)
-
-
-
-### Activity 5 – AI Tools Activity
-
-This activity explores the use of AI tools, including a comparison of how two large language models handle the same task.
-
-[📁 View Activity 5](./Activity-5-AI-Tools-Activity/)
-
----
-
-### Activity 6 – Making a Website
-
-This activity focuses on designing and building a website.
-
-[📁 View Activity 6](./Activity-6-Making-a-Website/)
-
----
-
-### Activity 7 – Resume Generating
-
-This activity focuses on generating a professional resume with the help of AI tools.
-
-[📁 View Activity 7](./Activity-7-Resume-Generating/)
-
----
-
+| # | Activity | Folder |
+|---|----------|--------|
+| 1 | Presentation Design Principles | [Open](./Activity-1-Presentation-Design-Principles/) |
+| 2 | Color Palette and Typography | [Open](./Activity-2-Color-Palette-and-Typography/) |
+| 3 | Social Media Infographics and Mini Project Documentation | [Open](./Activity-3-Social-Media-Infographics-and-Mini-Project-Documentation/) |
+| 4 | Google Slides Presentation | [Open](./Activity-4-Google-Slides-Presentation/) |
+| 5 | AI Tools Activity | [Open](./Activity-5-AI-Tools-Activity/) |
+| 6 | Making a Website | [Open](./Activity-6-Making-a-Website/) |
+| 7 | Resume Generating | [Open](./Activity-7-Resume-Generating/) |
 
 ## Repository Organization
 
-The repository is organized into separate folders for each Prelim activity.
-
-Each activity folder contains its corresponding outputs and documentation.
+Each activity has its own folder. Every folder has a `README.md` that explains the activity and what I learned from it, together with the output files.
 
 ---
 
-## Purpose
-
-This digital portfolio provides an organized and accessible presentation of my completed Prelim activities.
-
-It also demonstrates the use of GitHub to organize and present digital outputs.
-
----
-
-## Author
-
-**Anton Nickolai A. Zaragoza**  
-**BSN 4F**  
-**GE 4120 – 21st Century IT Skills**
+*GE 4120 – 21st Century IT Skills · BSN 4F*
