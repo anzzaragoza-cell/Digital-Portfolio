@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.jpg" alt="Profile photo of Anton Nickolai A. Zaragoza" width="180">
+<img src="profile.png" alt="Profile photo of Anton Nickolai A. Zaragoza" width="180">
 
 # Anton Nickolai A. Zaragoza
 
