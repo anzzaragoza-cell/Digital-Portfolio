@@ -44,9 +44,37 @@ The project focuses on antibiotic resistance in the Philippines and proposes a D
 
 ---
 
-
 ### Activity 4 – Google Slides Presentation
-[View the presentation](Activity 4-Google-Slides-Presentation.pdf)
+
+This activity focuses on creating a Google Slides presentation output.
+
+[📄 View the presentation](./Activity-4-Google-Slides-Presentation.pdf)
+
+
+
+### Activity 5 – AI Tools Activity
+
+This activity explores the use of AI tools, including a comparison of how two large language models handle the same task.
+
+[📁 View Activity 5](./Activity-5-AI-Tools-Activity/)
+
+---
+
+### Activity 6 – Making a Website
+
+This activity focuses on designing and building a website.
+
+[📁 View Activity 6](./Activity-6-Making-a-Website/)
+
+---
+
+### Activity 7 – Resume Generating
+
+This activity focuses on generating a professional resume with the help of AI tools.
+
+[📁 View Activity 7](./Activity-7-Resume-Generating/)
+
+---
 
 
 ## Repository Organization
